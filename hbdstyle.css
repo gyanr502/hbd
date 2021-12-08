@@ -1,11 +1,9 @@
-#madhu{
-	color: black;
+#start{
 	text-align: center;
-	padding: 0px;
-	font-family: sofia;
-	font-size: 75px;
-	margin-top: 45px;
+	font-size: 60px;
+	color: maroon;
+	background-color: lightpink;
 }
 body{
-	background-image: url("heart.jpeg");
+	background-color: lightpink;
 }
