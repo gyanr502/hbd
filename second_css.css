@@ -1,0 +1,24 @@
+h1{
+    text-align: center;
+    font-size: 70px;
+    color: lime;
+    padding-top: 40px;
+}
+.one{
+    padding-left: 40px;
+    padding-right: 40px;
+    border: 40px groove;
+    border-color: indianred;
+    background-image: url(heart.jpeg);
+}
+img{
+    height: 400px;
+    width: 320px;
+    border: 20px solid;
+    border-image: url(heart.jpeg) 30 round;
+}
+body{
+    padding-left: 40px;
+    padding-right: 40px;
+    background-color: lightpink;
+}
