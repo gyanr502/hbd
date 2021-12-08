@@ -5,6 +5,8 @@ h1{
     padding-top: 40px;
 }
 .one{
+    max-width: 100%;
+    height: auto;
     padding-left: 40px;
     padding-right: 40px;
     border: 40px groove;
