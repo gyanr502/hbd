@@ -12,8 +12,8 @@ h1{
     background-image: url(heart.jpeg);
 }
 img{
-    max-width: 100%;
-    height: auto;
+    height: 400px;
+    width: 320px;
     border: 20px solid;
     border-image: url(heart.jpeg) 30 round;
 }
